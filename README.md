@@ -4,11 +4,11 @@ This is a simple password/string Hasher for CS 3090 Ethics in Computing at the U
 
 ## How to use
 
-This program is very simple and doesn't need anything outside the PasswordHasher.java file. When run it will prompt the user for a password/string and produce a 32 byte hashed value returned in hexidecimal format to the system output. All you need is the PasswordHasher.java file which you can run in whichever environment you would like and it will prompt the user for input and produce the hash.
+This program is very simple and doesn't need anything outside the PasswordHasher.java file to work. It can be ran in the terminal and when run it will prompt the user for a password/string and produce a 32 byte hashed value printed back to the user in hexidecimal format. All you need is the PasswordHasher.java file which you can run in whichever environment you would like and it will prompt the user for input and produce the hash.
 
 ## Limitations and Warnings
 
-This is a very simple string hasher and is not meant for real use in computer security. It was build solely for eductional purposes and experience. It is not a secure hash algorithm and has serious limitations meaning it should not be used it real security scenarios. Its purpose for being created was to learn about hashing and the process of putting software publicly on github with an open source license.
+This is a very simple string hasher and is not meant for real use in computer security. It was build solely for eductional purposes and experience. It is not a secure hash algorithm and has serious limitations meaning it should not be used in real security scenarios. Its purpose for being created was to learn about hashing and the process of putting software publicly on github with an open source license.
 
 ## Ethical Considerations and Responsibilities use
 
